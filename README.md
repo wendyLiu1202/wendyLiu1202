@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Wendy 👋
 
-<!--
-**wendyLiu1202/wendyLiu1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Data Scientist & Bioinformatician building scalable, reproducible machine learning pipelines for high-dimensional data.
 
-Here are some ideas to get you started:
+## 🔬 What I Do
+- Build automated and reproducible analysis pipelines
+- Apply machine learning and statistical modelling to explore and intepret complex datasets
+- Work in Linux/HPC environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python • R • SQL • Bash • Git • Docker • Linux  
+Machine Learning • Statistical Modelling • Data Visualisation  
+
+## 📚 Currently Learning
+I enjoy learning new programming languages and expanding my systems-level knowledge.  
+Currently exploring C++ and Julia.
+
+---
+Always building. Always improving. 🚀
