@@ -1,6 +1,6 @@
 # Hi, I'm Wendy 👋
 
-PhD Data Scientist & Bioinformatician building scalable, reproducible machine learning pipelines for high-dimensional data.
+PhD Data Scientist & Bioinformatician
 
 ## 🔬 What I Do
 - Build automated and reproducible analysis pipelines
